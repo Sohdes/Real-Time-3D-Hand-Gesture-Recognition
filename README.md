@@ -111,7 +111,7 @@ The model was evaluated using:
 The system runs in real time using a webcam and provides gesture
 classification through a Streamlit interface.
 
-![Real-time Gesture Recognition](streamlit_result.png)
+<img src="streamlit_result.png" width="600"/>
 
 ## Technologies
 
