@@ -47,7 +47,7 @@ Evaluation:
 
 ## Demo
 
-<img src="streamlit_result.png" width="600"/>
+<img src="streamlit_result.png" width="450"/>
 
 ## Technologies
 
