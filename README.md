@@ -111,7 +111,7 @@ The model was evaluated using:
 The system runs in real time using a webcam and provides gesture
 classification through a Streamlit interface.
 
-(Add screenshot here)
+![Real-time Gesture Recognition](streamlit_result.png)
 
 ## Technologies
 
@@ -161,11 +161,9 @@ streamlit run streamlit_gesture_app.py
 
 ## Report
 
-The complete project report is available in:
+The complete project report is available here:
 
-```
-Report.pdf
-```
+[Project Report (PDF)](Report.pdf)
 
 ## Author
 
