@@ -47,8 +47,12 @@ Evaluation:
 
 ## Demo
 
+<h3 align="center">Gesture Examples</h3>
+
 <p align="center">
-<img src="streamlit_result.png" width="600"/>
+<img src="open_hand.png" width="250"/>
+<img src="fist.png" width="250"/>
+<img src="thumbs_up.png" width="250"/>
 </p>
 
 ### Gesture Examples
