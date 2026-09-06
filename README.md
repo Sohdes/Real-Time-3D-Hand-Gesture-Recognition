@@ -47,7 +47,17 @@ Evaluation:
 
 ## Demo
 
-<img src="streamlit_result.png" width="450"/>
+<p align="center">
+<img src="streamlit_result.png" width="600"/>
+</p>
+
+### Gesture Examples
+
+<p align="center">
+<img src="open_hand.png" width="250"/>
+<img src="fist.png" width="250"/>
+<img src="thumbs_up.png" width="250"/>
+</p>
 
 ## Technologies
 
