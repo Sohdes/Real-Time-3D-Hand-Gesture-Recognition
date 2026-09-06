@@ -55,14 +55,6 @@ Evaluation:
 <img src="thumbs_up.png" width="250"/>
 </p>
 
-### Gesture Examples
-
-<p align="center">
-<img src="open_hand.png" width="250"/>
-<img src="fist.png" width="250"/>
-<img src="thumbs_up.png" width="250"/>
-</p>
-
 ## Technologies
 
 - Python
